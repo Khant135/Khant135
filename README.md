@@ -1,77 +1,33 @@
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%2C%20I'm%20Min%20Khant%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Web%20Developer%20·%20Yangon%2C%20Myanmar&descAlignY=58&descSize=16" width="100%" />
-
 <p align="center">
-  <a href="https://github.com/Khant135">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Laravel+%7C+Vue+%7C+React+%7C+Ionic;Building+with+Next.js+%26+NestJS;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <img src="assets/hero.svg" alt="Min Khant — full-stack web developer in Yangon" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Khant135?label=Followers&style=flat-square&color=0e75b6" alt="followers" />
-</p>
+I'm Min, a web developer based in Yangon. At work I build products for **Myanmar Technology Gateway** and **Leap Technology**, mostly with Laravel and Vue, plus Ionic when something needs to live on a phone.
 
----
+Outside of that I've been spending more of my time on the TypeScript side of the backend: NestJS, TypeORM and Prisma, with Next.js on the front. A few of the things I've been working on are below.
 
-### 🧑‍💻 About Me
-
-
-- 💼 Web Developer at **Myanmar Technology Gateway** & **Leap Technology**
-- 🛠️ Experienced with **Laravel, Vue, Ionic & React**
-- 🌱 Currently leveling up in **Node.js, NestJS & Next.js**
-- 🧾 Recently building a **POS backend** in TypeScript
-- 📍 Based in **Yangon, Myanmar**
-- ⚡ I love picking up new technologies and turning ideas into real products
-
-
----
-
-### 🛠️ Tech Stack
-
-**Frontend**
+<br />
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,vue,bootstrap,sass,jquery&perline=11" />
+  <a href="https://github.com/Khant135/pos-backend"><img src="assets/pos.svg" alt="pos-backend" width="49%" /></a>
+  <a href="https://github.com/Khant135/nest.js"><img src="assets/nest.svg" alt="nest.js" width="49%" /></a>
+  <a href="https://github.com/Khant135/next.js"><img src="assets/next.svg" alt="next.js" width="49%" /></a>
+  <a href="https://github.com/Khant135/Restaurant_Management_System"><img src="assets/restaurant.svg" alt="Restaurant Management System" width="49%" /></a>
 </p>
 
-**Backend & Database**
+<br />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,mysql&perline=11" />
-</p>
+#### Tools I reach for
 
-**Mobile & Tools**
+<img src="https://skillicons.dev/icons?i=laravel,php,vue,react,nextjs,ts,nodejs,nestjs,prisma,mysql,postgres,tailwind,git&perline=13" alt="tech stack" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ionic,git,github,vscode,postman&perline=11" />
-</p>
+<br />
 
----
+#### What I write most
 
-### 📊 GitHub Stats
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khant135&layout=compact&langs_count=8&hide=hack&hide_title=true&card_width=420&bg_color=0d1117&text_color=c9d1d9&title_color=7ee787&border_color=30363d&border_radius=12" alt="Top languages" />
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Khant135&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=10" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khant135&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Khant135&theme=tokyonight&hide_border=true&border_radius=10" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Khant135/Khant135/output/github-snake-dark.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/Khant135/Khant135/output/github-snake.svg" />
-  </picture>
-</p>
-
----
-
-<p align="center"><i>Thanks for stopping by — feel free to explore my repos! ✨</i></p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Khant135/Khant135/output/github-snake-dark.svg" />
+  <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/Khant135/Khant135/output/github-snake.svg" width="100%" />
+</picture>
