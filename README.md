@@ -1,18 +1,77 @@
-# 💫 About Me:
-Hi, My Name is Min Khant.<br>I am a professional Web Developer with knowledge of Laravel, Vue, React & Ionic.<br>I am very enthusiastic to learn the new technologies, Node.js & React.
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%2C%20I'm%20Min%20Khant%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Web%20Developer%20·%20Yangon%2C%20Myanmar&descAlignY=58&descSize=16" width="100%" />
 
+<p align="center">
+  <a href="https://github.com/Khant135">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Laravel+%7C+Vue+%7C+React+%7C+Ionic;Building+with+Next.js+%26+NestJS;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Khant135&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Khant135&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Khant135&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Khant135&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Khant135?label=Followers&style=flat-square&color=0e75b6" alt="followers" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Khant135&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧑‍💻 About Me
+
+
+- 💼 Web Developer at **Myanmar Technology Gateway** & **Leap Technology**
+- 🛠️ Experienced with **Laravel, Vue, Ionic & React**
+- 🌱 Currently leveling up in **Node.js, NestJS & Next.js**
+- 🧾 Recently building a **POS backend** in TypeScript
+- 📍 Based in **Yangon, Myanmar**
+- ⚡ I love picking up new technologies and turning ideas into real products
+
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,vue,bootstrap,sass,jquery&perline=11" />
+</p>
+
+**Backend & Database**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,mysql&perline=11" />
+</p>
+
+**Mobile & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ionic,git,github,vscode,postman&perline=11" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Khant135&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=10" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khant135&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Khant135&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Khant135/Khant135/output/github-snake-dark.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/Khant135/Khant135/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
+<p align="center"><i>Thanks for stopping by — feel free to explore my repos! ✨</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%" />
