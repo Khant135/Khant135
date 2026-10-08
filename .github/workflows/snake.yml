@@ -19,8 +19,11 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=#ffd166&color_dots=#1b1e3a,#2b3a67,#4cc9f0,#ff4d9d,#ffd166
+
+      # Give the transparent SVG the arcade-screen background so it matches the rest of the profile
+      - name: Add arcade background
+        run: sed -i -E 's#(<svg[^>]*>)#\1<rect x="-50%" y="-50%" width="200%" height="200%" fill="\#12142a"/>#' dist/github-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:

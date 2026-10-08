@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="420" height="156" viewBox="0 0 420 156" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
-  <rect x=".5" y=".5" width="419" height="155" rx="12" fill="#0d1117" stroke="#30363d"/>
-  <rect x=".5" y="12" width="3" height="132" rx="1.5" fill="#7ee787"/>
-  <text x="24" y="38" font-size="17" font-weight="700" fill="#e6edf3">pos-backend</text>
-  <text x="396" y="38" text-anchor="end" font-size="16" fill="#8b949e">↗</text>
-  <text x="24" y="66" font-size="13" fill="#8b949e">REST API for a point-of-sale system,</text>
-  <text x="24" y="86" font-size="13" fill="#8b949e">with TypeORM over MySQL / Postgres.</text>
-  <rect x="24" y="112" width="68" height="24" rx="12" fill="#7ee787" fill-opacity=".12" stroke="#7ee787" stroke-opacity=".45"/><text x="58" y="128.5" text-anchor="middle" font-size="12" fill="#7ee787">nestjs</text><rect x="100" y="112" width="76" height="24" rx="12" fill="#7ee787" fill-opacity=".12" stroke="#7ee787" stroke-opacity=".45"/><text x="138" y="128.5" text-anchor="middle" font-size="12" fill="#7ee787">typeorm</text><rect x="184" y="112" width="84" height="24" rx="12" fill="#7ee787" fill-opacity=".12" stroke="#7ee787" stroke-opacity=".45"/><text x="226" y="128.5" text-anchor="middle" font-size="12" fill="#7ee787">postgres</text>
-</svg>

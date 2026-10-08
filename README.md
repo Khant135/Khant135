@@ -1,33 +1,34 @@
 <p align="center">
-  <img src="assets/hero.svg" alt="Min Khant — full-stack web developer in Yangon" width="100%" />
+  <img src="assets/hero.svg" width="100%" alt="Player select: Min Khant, full-stack dev from Yangon" />
 </p>
 
-I'm Min, a web developer based in Yangon. At work I build products for **Myanmar Technology Gateway** and **Leap Technology**, mostly with Laravel and Vue, plus Ionic when something needs to live on a phone.
-
-Outside of that I've been spending more of my time on the TypeScript side of the backend: NestJS, TypeORM and Prisma, with Next.js on the front. A few of the things I've been working on are below.
-
-<br />
-
-<p>
-  <a href="https://github.com/Khant135/pos-backend"><img src="assets/pos.svg" alt="pos-backend" width="49%" /></a>
-  <a href="https://github.com/Khant135/nest.js"><img src="assets/nest.svg" alt="nest.js" width="49%" /></a>
-  <a href="https://github.com/Khant135/next.js"><img src="assets/next.svg" alt="next.js" width="49%" /></a>
-  <a href="https://github.com/Khant135/Restaurant_Management_System"><img src="assets/restaurant.svg" alt="Restaurant Management System" width="49%" /></a>
+<p align="center">
+  <img src="assets/dialog.svg" width="100%" alt="Hey! I'm Min, a web developer from Yangon. By day I build products at Myanmar Technology Gateway and Leap Technology with Laravel, Vue, React and Ionic. After hours I'm levelling up on TypeScript backends: NestJS, Prisma, Next.js." />
 </p>
 
-<br />
+<h3 align="center"><code>▶ SELECT STAGE</code></h3>
 
-#### Tools I reach for
+<p align="center">
+  <a href="https://github.com/Khant135/pos-backend"><img src="assets/stage-pos.svg" width="49%" alt="World 1-1: pos-backend" /></a>
+  <a href="https://github.com/Khant135/nest.js"><img src="assets/stage-nest.svg" width="49%" alt="World 1-2: nest.js" /></a>
+  <a href="https://github.com/Khant135/next.js"><img src="assets/stage-next.svg" width="49%" alt="World 1-3: next.js" /></a>
+  <a href="https://github.com/Khant135/Restaurant_Management_System"><img src="assets/stage-restaurant.svg" width="49%" alt="World 1-4: Restaurant Management System" /></a>
+</p>
 
-<img src="https://skillicons.dev/icons?i=laravel,php,vue,react,nextjs,ts,nodejs,nestjs,prisma,mysql,postgres,tailwind,git&perline=13" alt="tech stack" />
+<p align="center">
+  <img src="assets/inventory.svg" width="100%" alt="Inventory: Laravel, PHP, Vue, React, Ionic, TypeScript, Node.js, NestJS, Next.js, Prisma, MySQL, Postgres" />
+</p>
 
-<br />
+<h3 align="center"><code>★ HIGH SCORES ★</code></h3>
 
-#### What I write most
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khant135&layout=compact&langs_count=8&hide=hack&hide_title=true&card_width=420&bg_color=12142a&text_color=f1f1f1&title_color=ffd166&border_color=4cc9f0&border_radius=16" width="49%" alt="Most used languages" />
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khant135&layout=compact&langs_count=8&hide=hack&hide_title=true&card_width=420&bg_color=0d1117&text_color=c9d1d9&title_color=7ee787&border_color=30363d&border_radius=12" alt="Top languages" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Khant135/Khant135/output/github-snake.svg" width="100%" alt="Snake eating the contribution graph" />
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Khant135/Khant135/output/github-snake-dark.svg" />
-  <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/Khant135/Khant135/output/github-snake.svg" width="100%" />
-</picture>
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="Thanks for playing" />
+</p>
