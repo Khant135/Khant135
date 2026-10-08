@@ -23,7 +23,7 @@ jobs:
 
       # Give the transparent SVG the arcade-screen background so it matches the rest of the profile
       - name: Add arcade background
-        run: sed -i -E 's#(<svg[^>]*>)#\1<rect x="-50%" y="-50%" width="200%" height="200%" fill="\#12142a"/>#' dist/github-snake.svg
+        run: sudo sed -i -E 's#(<svg[^>]*>)#\1<rect x="-50%" y="-50%" width="200%" height="200%" fill="\#12142a"/>#' dist/github-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
